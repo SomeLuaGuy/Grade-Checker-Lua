@@ -291,10 +291,10 @@ for count, val in pairs(class) do
   class_grades[table]["total"] = total_grade
   class_grades[table]["letter"] = grade_letter
   
-  print(class_grades[table]["letter"])
-  print(class_grades[table]["total"])
-  print(class_grades[table]["majors"])
-  print(class_grades[table]["minors"])
+  -- print(class_grades[table]["letter"])
+  -- print(class_grades[table]["total"])
+  -- print(class_grades[table]["majors"])
+  -- print(class_grades[table]["minors"])
 end
   
   --[[
